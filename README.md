@@ -20,7 +20,7 @@ p5js를 활용하여 오디오 리액티브 미디어아트를 제작
 ### 결과물
 본 프로젝트를 통해 스크립팅을 통해 오디오 리액티브 미디어아트를 제작하는 가장 기본적인 방식을 학습하였으며, 코드를 활용하여 아이디어를 찾아내고 창의적인 아트를 제작할 수 있었다.  
 
-### [홈페이지](https://youtu.be/HzUWPJfNoW4)  
+### [홈페이지](https://eglee00.github.io/2024_p5js_SoundMedia/)  
 
 
 ---
@@ -45,7 +45,7 @@ Creating an audio-reactive media art piece using p5.js
 ### Outcome  
 Through this project, I learned the basic techniques of creating audio-reactive media art using scripting. I was able to use coding to explore ideas and create innovative artwork.  
 
-### [Homepage](https://youtu.be/HzUWPJfNoW4)  
+### [Homepage](https://eglee00.github.io/2024_p5js_SoundMedia/)  
 
 
 ---
@@ -69,4 +69,4 @@ p5.jsを活用して、オーディオリアクティブメディアアートを
 ### 結果  
 このプロジェクトを通じて、スクリプティングを用いたオーディオリアクティブメディアアートの基礎技術を習得しました。コードを活用してアイデアを探求し、創造的なアートを制作することができました。  
 
-### [ホームページ](https://youtu.be/HzUWPJfNoW4)  
+### [ホームページ](https://eglee00.github.io/2024_p5js_SoundMedia/)  
